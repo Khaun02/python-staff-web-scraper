@@ -28,10 +28,6 @@ This project was developed in collaboration with Madison College's NSF S-STEM Sc
 
 scholarship-outreach-automation/ ├── main.py # Main script to run the scraper ├── chromedriver # Your ChromeDriver executable (not included) ├── s-stem_school_contacts.csv # Generated output file └── README.md
 
-yaml
-Copy
-Edit
-
 ---
 
 ## How to Use
@@ -40,17 +36,9 @@ Edit
 
 git clone https://github.com/yourusername/scholarship-outreach-automation.git cd scholarship-outreach-automation
 
-markdown
-Copy
-Edit
-
 2. Install required libraries:
 
 pip install selenium pandas
-
-markdown
-Copy
-Edit
 
 3. Download the correct version of ChromeDriver:
    https://sites.google.com/chromium.org/driver/
@@ -61,17 +49,9 @@ Edit
 
 python main.py
 
-kotlin
-Copy
-Edit
-
 5. The contact data will be saved in:
 
 s-stem_school_contacts.csv
-
-yaml
-Copy
-Edit
 
 ---
 
